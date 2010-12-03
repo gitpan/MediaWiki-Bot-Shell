@@ -35,7 +35,7 @@ my %WriteMakefileArgs = (
     'Term::Prompt' => '0',
     'Term::Shell' => '0'
   },
-  'VERSION' => '0.001',
+  'VERSION' => '0.002',
   'test' => {
     'TESTS' => 't/*.t'
   }

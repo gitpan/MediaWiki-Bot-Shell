@@ -79,12 +79,11 @@ readable, the user will be prompted for this information.
 
 =head1 SEE ALSO
 
-L<MediaWiki::Bot::Shell>, L<MediaWiki::Bot> and L<the admin plugin|MediaWiki::Bot::Plugin::Admin>,
-and L<http://hashbang.ca/~mike/page/projects/perlwikibot-scripts>.
+L<MediaWiki::Bot::Shell>, L<MediaWiki::Bot> and L<the admin plugin|MediaWiki::Bot::Plugin::Admin>.
 
 =head1 BUGS
 
-Yes. Report them at L<http://bugzilla.hashbang.ca/...>
+Yes.
 
 =head1 AUTHOR
 
